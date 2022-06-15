@@ -1,0 +1,11 @@
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.csprojAssemblyReference.cache
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.Form1.resources
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.Properties.Resources.resources
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.csproj.GenerateResource.cache
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.csproj.CoreCompileInputs.cache
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\bin\Debug\kamen_skarje_papir.exe.config
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\bin\Debug\kamen_skarje_papir.exe
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\bin\Debug\kamen_skarje_papir.pdb
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.exe
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.pdb
+C:\Users\uroš\source\repos\kamen_skarje_papir\kamen_skarje_papir\obj\Debug\kamen_skarje_papir.Form2.resources
